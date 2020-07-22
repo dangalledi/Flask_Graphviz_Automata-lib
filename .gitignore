@@ -1,0 +1,7 @@
+.vscode
+.idea
+.sv
+.sv.png
+
+# Packages
+__pycache__
