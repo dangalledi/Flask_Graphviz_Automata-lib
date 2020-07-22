@@ -2,4 +2,4 @@
 Mini proyecto flask que gráfica autómatas con graphviz
 
 ## Imagen generada 
-![Automata contenido en el proyecto](https://github.com/dangalledi/Flask_Graphviz_Automata-lib/doc/imagen_generada.png)
+![Automata contenido en el proyecto](https://github.com/dangalledi/Flask_Graphviz_Automata-lib/blob/master/doc/imagen_generada.png)
